@@ -1,10 +1,10 @@
 # Hi, I'm Gaurav 👋
 
-### 🚀 Results-driven Backend/Data Engineer with 4 years of experience in JavaScript and Python.
+### 🚀 Backend/Data Engineer - JavaScript and Python.
 
 ---
 
-I am passoniate about the MERN Stack, data engineering & applied machine learning.
+Passoniate about the MERN Stack, data engineering & applied machine learning.
 
 ## 💻 Interests
 
