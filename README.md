@@ -4,7 +4,7 @@
 
 ---
 
-Passoniate about the MERN Stack, data engineering & applied machine learning.
+Passionate about the MERN Stack, data engineering & applied machine learning.
 
 ## 💻 Interests
 
