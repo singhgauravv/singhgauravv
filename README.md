@@ -36,6 +36,5 @@ I am passoniate about the MERN Stack, data engineering & applied machine learnin
   <img src="https://img.shields.io/badge/-Skaffold-292E37?logo=skaffold&logoColor=white&style=for-the-badge" alt="Skaffold">
 </p>
 
-## 📝 Blogs & Articles
-
-## 📫 Get in Touch
+<!-- Blogs & Articles -->
+<!-- Get in Touch -->
